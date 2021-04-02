@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'viv-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f01371d4d72b4399b5926d2f8679ff90 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_36b59e1a75ae48038fa673efc6481c14 }}
         package: .
